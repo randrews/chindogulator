@@ -1,7 +1,7 @@
 # Chindogulator
 A Chindogu calculator for your computer
 
-![chindogulator.jpg]
+![chindogulator](/chindogulator.jpg)
 
 ## What is this?
 This is an RPN calculator that uses a mechanical keypad for input, and USB keyboard for output: you type in numbers, it echoes them to your PC; you press a function key and it backspaces that number and types in the result.
